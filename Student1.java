@@ -24,7 +24,7 @@ class Student1 {
     }
 }
 
-public class StudentSorter {
+public class Student1Sorter {
     public static void main(String[] args) {
         List<Student> students = Arrays.asList(
             new Student("Alice", 22),
