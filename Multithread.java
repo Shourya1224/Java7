@@ -1,12 +1,12 @@
 class Hello{
      public static void main(String[] args) {
-        System.out.println("idher dekhooo");
+        System.out.println("..");
           Thread t1=  new Thread( ()->{
-             System.out.println("hello");
+             System.out.println("Namaste");
         
           });
           Thread t2=  new Thread( ()->{
-            System.out.println("hiiii");
+            System.out.println("hello");
 
          });
          t1.start();
